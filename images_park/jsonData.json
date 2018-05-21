@@ -1,0 +1,58 @@
+﻿[
+  {
+    "Name": "trencito",
+    "Description": "Atracion muy extrema, no apta para cardiacos",
+    "Schedule": "10:00 a.m a 1:00 pm y de 2:00 p.m a 6:00 p.m todos los dias",
+    "Image": "https://raw.githubusercontent.com/c6j6g7g7/images_bot/master/images_park/Trencito.jpg",
+    "Score": 10,
+    "Open":  true
+  },
+  {
+    "Name": "Bicicletas Acuaticas",
+    "Description": "Atracción acuatica, se recomienda el uso de flotador",
+    "Image": "https://raw.githubusercontent.com/c6j6g7g7/images_bot/master/images_park/Bicicletas_Acuaticas.jpg",
+    "Schedule": "10:00 a.m a 1:00 pm y de 2:00 p.m a 6:00 p.m todos los dias",
+    "Score": 3,
+    "Open": true
+  },
+  {
+    "Name": "Carros Chocones",
+    "Description": "Golpes sin parar, llene su cabeza de chichones con esta fantastica atracción.",
+    "Image": "https://raw.githubusercontent.com/c6j6g7g7/images_bot/master/images_park/Carros_Chocones.jpg",
+    "Schedule": "10:00 a.m a 1:00 pm y de 2:00 p.m a 6:00 p.m todos los dias",
+    "Score": 8,
+    "Open": true
+  },
+  {
+    "Name": "Teatro de niños",
+    "Description": "Excelente atracción para un sueño placido y prolongado.",
+    "Image": "https://raw.githubusercontent.com/c6j6g7g7/images_bot/master/images_park/Teatro_de_ninos.jpg",
+    "Schedule": "10:00 a.m a 1:00 pm y de 2:00 p.m a 6:00 p.m todos los dias",
+    "Score": 6,
+    "Open": false
+  },
+  {
+    "Name": "Mansion del terror",
+    "Description": "-",
+    "Image": "https://raw.githubusercontent.com/c6j6g7g7/images_bot/master/images_park/Castillo_del_terror.jpeg",
+    "Schedule": "10:00 a.m a 1:00 pm y de 2:00 p.m a 6:00 p.m todos los dias",
+    "Score": 5,
+    "Open": true
+  },
+  {
+    "Name": "carrusel",
+    "Description": "Recomendamos que se tenga fuerte el sombrero para esta atracción.",
+    "Image": "https://raw.githubusercontent.com/c6j6g7g7/images_bot/master/images_park/Carrusel.jpg",
+    "Schedule": "10:00 a.m a 1:00 pm y de 2:00 p.m a 6:00 p.m todos los dias",
+    "Score": 8,
+    "Open": false
+  },
+  {
+    "Name": "Montaña Rusa",
+    "Description": "Montaña rusa en la que podra experimentar fuerzas superiores a 10G.",
+    "Image": "https://raw.githubusercontent.com/c6j6g7g7/images_bot/master/images_park/montana-rusa.jpg",
+    "Schedule": "10:00 a.m a 1:00 pm y de 2:00 p.m a 6:00 p.m todos los dias",
+    "Score": 10,
+    "Open": true
+  }
+]
