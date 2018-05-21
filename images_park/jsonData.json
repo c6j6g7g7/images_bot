@@ -1,7 +1,7 @@
 ﻿[
   {
     "Name": "trencito",
-    "Description": "Atracion muy extrema, no apta para cardiacos (JSON Externo)",
+    "Description": "Atracion muy extrema, no apta para cardiacos.",
     "Schedule": "10:00 a.m a 1:00 pm y de 2:00 p.m a 6:00 p.m todos los dias",
     "Image": "https://raw.githubusercontent.com/c6j6g7g7/images_bot/master/images_park/Trencito.jpg",
     "Score": 10,
